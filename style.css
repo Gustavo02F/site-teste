@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200&display=swap');
+
+    body {
+       font-family: 'Barlow Condensed';
+       font-size: 20px;
+       color: rgb(233, 233, 233);
+       background-color: rgb(24, 26, 27);
+       text-align: center;}
+
+    main {
+        background-color: rgb(24, 26, 27);
+        width: 800px;
+        padding: 10px;
+        margin: auto;
+        box-shadow: 5px 5px 5px rgba(85, 85, 85, 0.164);}
+    
+    h1 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: white;
+        font-size: 38px;}
+
+    h2 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 22px;
+    }    
+    
+        p {
+            align-items: center;
+            text-align: justify;
+            font-size: 20px;}
+
+    img {
+        box-shadow: 5px 5px 5px rgba(85, 85, 85, 0.164);}
+
+    span {
+        font-size: 21px;
+    }
