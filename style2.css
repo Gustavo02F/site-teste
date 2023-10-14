@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+
+@font-face {
+    font-family: 'schebold';
+    src: url(fontes/scheherazade.bold.ttf) format(truetype);
+    font-weight: normal;
+    font-size: 30px;
+}
+
+@font-face {
+    font-family: 'schenormal';
+    src: url(fontes/scheherazade.regular.ttf) format(truetype);
+    font-weight: normal;
+    font-family: 30px
+}
+
+@font-face {
+    font-family: 'opennormal';
+    src: url(fontes/static/OpenSans-Regular.ttf) format(truetype);
+    font-weight: normal;
+    font-size: 16px;
+}
+
+@font-face {
+    font-family: 'nanumnormal';
+    src: url(fontes/NanumMyeongjo-Regular.ttf)format(truetype);
+    font-weight: normal;
+    
+}
+    h1 {font-size: 55px;}
+        body {background-color: rgb(24, 26, 27);}
+        main {text-align: center;
+              margin: auto;
+              width: 800px;
+            padding: 10px;}
