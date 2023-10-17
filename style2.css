@@ -30,7 +30,11 @@
 }
     h1 {font-size: 55px;}
         body {background-color: rgb(24, 26, 27);}
-        main {text-align: center;
-              margin: auto;
-              width: 800px;
-            padding: 10px;}
+            
+            main {text-align: center;
+                  margin: auto;
+                  width: 800px;
+                  padding: 10px;}
+
+                body {color: rgb(114, 113, 113);
+                      }
