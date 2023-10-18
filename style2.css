@@ -25,20 +25,33 @@
 @font-face {
     font-family: 'nanumnormal';
     src: url(fontes/NanumMyeongjo-Regular.ttf)format(truetype);
-    font-weight: normal;
+    font-weight: normal;}
+
+@font-face {
+    font-family: "gellix";
+    src: url(fontes/gellix-11.ttf) format(truetype);}
     
-}
+    
     h1 {font-size: 55px;}
        
         body {background-color: rgb(24, 26, 27);}
             
-            main {text-align: center;
+            main {text-align: justify;
                   margin: auto;
                   width: 800px;
                   padding: 10px;}
 
                 body {color: rgb(114, 113, 113);}
-                    
-                    p{text-align: justify;}
+
+                    span {color: rgb(148, 24, 24);}
+
+                .classw {color: white;}
+
+            .goty {font-family: "gellix";
+                   color: goldenrod;
+                   font-size: 13px;}
+        
+        .p1 {text-align: center;}
+        
 
                         
