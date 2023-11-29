@@ -5,16 +5,16 @@
     body {
        font-family: 'Barlow Condensed';
        font-size: 20px;
-       color: rgb(233, 233, 233);
-       background-color: rgb(24, 26, 27);
+       color: #e9e9e9;
+       background-color: #181a1b;
        text-align: center;}
 
     main {
-        background-color: rgb(24, 26, 27);
+        background-color: #181a1b;
         width: 800px;
         padding: 10px;
         margin: auto;
-        box-shadow: 5px 5px 5px rgba(85, 85, 85, 0.164);}
+        box-shadow: 5px 5px 5px #5555552a;}
     
     h1 {
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -32,12 +32,24 @@
             font-size: 20px;}
 
     img {
-        box-shadow: 5px 5px 5px rgba(85, 85, 85, 0.164);}
+        box-shadow: 5px 5px 5px #5555552a;}
 
     span {
         font-size: 21px;
     }
 
     a{
-        color: rgb(168, 90, 192);
+        color: #941818;
     }
+
+    #cadastro{
+        font: bold 20px 'Barlow Condensed';
+        background-color: #a85ac0;
+        color: white;
+        width: 100%;
+        width: 120px;
+        border-radius: 10px;
+        padding: 3px;
+        text-align: center;
+        margin-left: auto;
+        }   
