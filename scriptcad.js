@@ -74,16 +74,10 @@ function checkForm(){
   const isValid = [...formItems].every( (item) => {
     return item.className === "form-content"
   })
-  document.getElementById("cadastrarbutton").addEventListener('click', function(){
-    window.location.href = 'index.html'
-    });
-
-
+  
   if(isValid){
     alert('CADASTRADO COM SUCESSO!')
     }
-
-    
 
 }
 
